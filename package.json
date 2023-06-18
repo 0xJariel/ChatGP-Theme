@@ -2,10 +2,24 @@
   "name": "chatgp-theme",
   "displayName": "ChatGP-Theme",
   "description": "A theme designed for readability",
-  "version": "0.0.1",
+  "icon": "images/ChatGP-Theme.png",
+  "version": "0.0.3",
+  "publisher": "0xJariel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xJariel/ChatGP-Theme"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "0xJariel",
+    "0xJariel dark theme",
+    "ChatGPT theme",
+    "ChatGP-Theme"
+  ],
   "categories": [
     "Themes"
   ],
