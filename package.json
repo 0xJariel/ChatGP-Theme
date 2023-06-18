@@ -1,0 +1,21 @@
+{
+  "name": "chatgp-theme",
+  "displayName": "ChatGP-Theme",
+  "description": "A theme designed for readability",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ChatGP-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ChatGP-Theme-color-theme.json"
+      }
+    ]
+  }
+}
