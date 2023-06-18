@@ -3,7 +3,7 @@
   "displayName": "ChatGP-Theme",
   "description": "A theme designed for readability",
   "icon": "images/ChatGP-Theme.png",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "0xJariel",
   "repository": {
     "type": "git",
